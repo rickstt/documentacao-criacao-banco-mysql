@@ -40,7 +40,6 @@ Com base nas necessidades do cliente, foram estabelecidas as seguintes tabelas:
 Tendo isso em mente utilizamos a ferramenta de diagramação ([draw.io](https://app.diagrams.net/)) para a construção deste modelo conceitual.
 
 ![Modelo conceitual](modeloconceitual2.png)
-[Link da imagem](https://drive.google.com/file/d/1wyUwDbKeKQNBsrkjJGeMFpyywYh6EGBd/view?usp=sharing)
 
 Posteriormente, é realizada a primeira normalização do banco de dados. A normalização é um processo de organização das tabelas visando a minimização da redundância de dados e inconsistências, seguindo um conjunto de regras e procedimentos preestabelecidos. O objetivo desse processo é reduzir o risco de erros e inconsistências nos dados armazenados no banco.
 

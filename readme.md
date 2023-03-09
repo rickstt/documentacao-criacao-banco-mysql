@@ -182,4 +182,4 @@ Esta imagem do modelo físico é gerada automaticamente pelo [MySQL Workbench](h
 
 Novamente, esta documentação não tem o objetivo de mostrar o gerenciamneto de um banco de dados ou seu funcionamento. Esta documentação tem como principal objetivo apenas demonstrar as principais etapas da criação de um banco de dados MySQL, criando assim uma loja de comercio eletrônico fantasia chamada "KiBaratu".
 
-Todo o conteúdo foi escrito e revisado por Henrique Santos. Contato rickdev.contato@gmail.com
+Por Henrique Santos. Contato rickdev.contato@gmail.com
